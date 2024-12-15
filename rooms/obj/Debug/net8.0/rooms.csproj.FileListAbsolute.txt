@@ -1,0 +1,14 @@
+C:\Users\heize\source\repos\rooms\rooms\bin\Debug\net8.0\rooms.exe
+C:\Users\heize\source\repos\rooms\rooms\bin\Debug\net8.0\rooms.deps.json
+C:\Users\heize\source\repos\rooms\rooms\bin\Debug\net8.0\rooms.runtimeconfig.json
+C:\Users\heize\source\repos\rooms\rooms\bin\Debug\net8.0\rooms.dll
+C:\Users\heize\source\repos\rooms\rooms\bin\Debug\net8.0\rooms.pdb
+C:\Users\heize\source\repos\rooms\rooms\obj\Debug\net8.0\rooms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heize\source\repos\rooms\rooms\obj\Debug\net8.0\rooms.AssemblyInfoInputs.cache
+C:\Users\heize\source\repos\rooms\rooms\obj\Debug\net8.0\rooms.AssemblyInfo.cs
+C:\Users\heize\source\repos\rooms\rooms\obj\Debug\net8.0\rooms.csproj.CoreCompileInputs.cache
+C:\Users\heize\source\repos\rooms\rooms\obj\Debug\net8.0\rooms.dll
+C:\Users\heize\source\repos\rooms\rooms\obj\Debug\net8.0\refint\rooms.dll
+C:\Users\heize\source\repos\rooms\rooms\obj\Debug\net8.0\rooms.pdb
+C:\Users\heize\source\repos\rooms\rooms\obj\Debug\net8.0\rooms.genruntimeconfig.cache
+C:\Users\heize\source\repos\rooms\rooms\obj\Debug\net8.0\ref\rooms.dll
